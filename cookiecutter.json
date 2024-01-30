@@ -1,10 +1,8 @@
 {
-    "project_title": "Nombre del Proyecto",
+    "project_title": "Cookiecutter Personal",
     "project_slug": "{{ cookiecutter.project_title.lower().replace(' ','_').replace('-','_')}}",
-    "project_description": "Proyecto creado con cookiecutter",
-    "project_author_name": "Mantis",
-    "project_author_email": "sb@mantis.ec ",
+    "project_description": "Building dreams with data",
+    "project_author_name": "Mantis sb@mantis.ec",
     "project_packages": ["All", "Minimal"],
-    "python_version": "3.9",
-    "project_version": "0.1.0"
+    "python_version": "3.7"
 }

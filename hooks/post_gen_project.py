@@ -1,3 +1,5 @@
+#print("Bye Bye")
+#ejecuta comandos de git para inicializar el repo agregarlo todo y hacer un primer commit
 import os
 import subprocess
 
