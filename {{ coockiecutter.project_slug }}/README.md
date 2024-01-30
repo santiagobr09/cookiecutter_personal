@@ -1,7 +1,7 @@
 # {{ cookiecutter.project_title }}
 
-By: {{ coockiecutter.project_author_name }}
-Mail: {{ coockiecutter.project_author_email}}
+By: {{ cookiecutter.project_author_name }}
+Mail: {{ cookiecutter.project_author_email}}
 
 
 {{ cookiecutter.project_description }}
